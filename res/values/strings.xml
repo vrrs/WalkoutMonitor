@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, main_act!</string>
+    <string name="app_name">WalkOut Monitor</string>
+    <string name="run_tm">Running Time</string>
+    <string name="intro">Welcome to the Walkout Monitor. Please Select one of the options below.</string>
+    <string name="startT">Workout</string>
+    <string name="optT">Options</string>
+    <string name="cmpT">Compare Workouts</string>
+    <string name="modeR">Running</string>
+    <string name="modeL">Lifting</string>
+    <string name="mode_txt">Choose whether you want to run or lift</string>
+    <string name="current_sp_txt">Current Speed</string>
+    <string name="Average_Speed">Average Speed</string>
+    <string name="StartW">Start</string>
+    <string name="StopW">Stop</string>
+    <string name="saveW">Save</string>
+    <string name="cancelW">Cancel</string>
+    <string name="numlift">Lifts</string>
+    <string name="weightOp">Enter your new weight in Kg</string>
+    <string name="total">Totals</string>
+    <string name="tot_dist">Total Distance.............</string>
+    <string name="cal">Calories Burnt.............</string>
+    <string name="back">Go Back</string>
+    <string name="cmpTitle">Workouts until now.</string>
+
+</resources>
